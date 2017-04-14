@@ -1,3 +1,3 @@
 #!/bin/bash
 
-csc main.scm -o scheme-format
+csc main.scm -o pp-lisp
